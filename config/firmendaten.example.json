@@ -1,0 +1,10 @@
+{
+  "firma": "Deine Firma GmbH",
+  "strasse": "Musterstraße 1",
+  "plz": "10115",
+  "ort": "Berlin",
+  "iban": "DE00 0000 0000 0000 0000 00",
+  "steuernummer": "00/000/00000",
+  "email": "info@example.com",
+  "telefon": "030 000000"
+}

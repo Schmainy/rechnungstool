@@ -1,0 +1,16 @@
+---
+Betreff: Rechnung - {rechnungsnummer}
+---
+Sehr geehrte Damen und Herren,
+
+anbei erhalten Sie Ihre Rechnung {rechnungsnummer} für den Leistungszeitraum
+{leistungszeitraum_von} – {leistungszeitraum_bis}.
+
+Mit freundlichen Grüßen
+
+Max Mustermann
+Geschäftsführer
+
+(Sie können gerne auf diese Email antworten oder uns Online besuchen!)
+www.example.com / info@example.com
+---

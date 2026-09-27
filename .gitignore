@@ -1,0 +1,15 @@
+config/api_key.json
+config/kunden.json
+config/firmendaten.json
+config/einstellungen.json
+templates/Musterrechnung.xlsx
+templates/logo.png
+logs/
+output/
+probeordner_*/
+__pycache__/
+*.pyc
+*.log
+*.pdf
+venv/
+.venv/

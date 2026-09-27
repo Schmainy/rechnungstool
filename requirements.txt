@@ -1,0 +1,5 @@
+openpyxl
+pillow          # fuer das Logo der Vorlage (openpyxl) und die Textmessung in pdf_generator
+requests
+msal
+python-dateutil

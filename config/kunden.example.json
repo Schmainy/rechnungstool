@@ -1,0 +1,30 @@
+{
+  "kunden": [
+    {
+      "kunde_id": "musterfirma",
+      "firma": "Musterfirma GmbH",
+      "strasse": "Musterstraße 1",
+      "plz_ort": "10115 Berlin",
+      "email_empfaenger": "max@example.com",
+      "beschreibung": "Monatliche Website-Betreuung: Wartung, Updates und Hosting",
+      "anzahl": 1,
+      "einzelpreis": 500.00,
+      "steuersatz": 19.0,
+      "zahlungsziel_tage": 14,
+      "aktiv": true
+    },
+    {
+      "kunde_id": "beispiel_ag",
+      "firma": "Beispiel AG",
+      "strasse": "Beispielweg 2",
+      "plz_ort": "10117 Berlin",
+      "email_empfaenger": "info@beispiel.example",
+      "beschreibung": "IT-Beratung nach Aufwand",
+      "anzahl": 8,
+      "einzelpreis": 95.00,
+      "steuersatz": 19.0,
+      "zahlungsziel_tage": 30,
+      "aktiv": false
+    }
+  ]
+}

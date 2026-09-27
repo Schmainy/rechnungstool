@@ -1,0 +1,6 @@
+{
+  "tenant_id": "your-tenant-id",
+  "client_id": "your-client-id",
+  "client_secret": "your-client-secret",
+  "sender_email": "invoices@yourdomain.com"
+}
